@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M9_Class_07_Work_01", "M9_Class_07_Work_01\M9_Class_07_Work_01.csproj", "{7C315ECD-0A1A-4C12-A6AA-7D23255E085F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M9_Class_07_Work_02", "M9_Class_07_Work_02\M9_Class_07_Work_02.csproj", "{77ACC400-61FE-461B-A20F-DB26CC224F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C315ECD-0A1A-4C12-A6AA-7D23255E085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C315ECD-0A1A-4C12-A6AA-7D23255E085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C315ECD-0A1A-4C12-A6AA-7D23255E085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C315ECD-0A1A-4C12-A6AA-7D23255E085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ACC400-61FE-461B-A20F-DB26CC224F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ACC400-61FE-461B-A20F-DB26CC224F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ACC400-61FE-461B-A20F-DB26CC224F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ACC400-61FE-461B-A20F-DB26CC224F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7D2AAA-D1FC-46AC-872B-7D6AE9DF3165}
+	EndGlobalSection
+EndGlobal
